@@ -1,0 +1,8 @@
+.checkBox {
+    height: 17px;
+    border-radius: 50%;
+}
+
+.checkBox:checked {
+    background-color: lightgreen;
+}
